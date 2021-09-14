@@ -1,12 +1,9 @@
 ---
-HOME-Flexibiliy in Tiny Spaces -- Introduction
+# HOME-Flexibiliy in Tiny Spaces -- Introduction
 
-Sep.14, 2021. Chen, Xiaofei.
+###### Sep.14 2021. Xiaofei Chen
 
-
-
-
-Definition of home:
+## Definition of home:
 - Portable
 - Have a self-sufficient system
 - Can fit in small areas
@@ -21,7 +18,11 @@ that can make it become a home. It needs to make people feel comfortable, warm a
 feel free to do what they want. It is hard to give “home” a specific definition, but, for 
 me, the core of home is the ability that make people want to live in this place.
 
+## Define a client: 
+Young office workers in big cities/ single with a pet or a couple with a pet
 
+## Site:
+This project is meant to be portable and people can 
 
 
 

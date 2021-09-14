@@ -1,72 +1,27 @@
 ---
 layout: post
 title: "Introduction"
+
 categories: studio process
+
 author:
 - Xiaofei Chen (Samansa)
 
+Definition of home:
+- Portable
+- Have a self-sufficient system
+- Can fit in small areas
+- Wood structure/material
+- Make people feel convenient and comfortable
+
+A home to me is not only a place to live, but also something that has emotional 
+connections with people. A fancy and expensive hotel can be a good place to take a 
+vacation, but it can never be a place for permanent living. Home can not be defined by 
+its size or location, the organization of the interior spaces and decoration are the things 
+that can make it become a home. It needs to make people feel comfortable, warm and 
+feel free to do what they want. It is hard to give “home” a specific definition, but, for 
+me, the core of home is the ability that make people want to live in this place.
 
 
 
-## Some great heading (h2)
 
-
-## Another great heading (h2)
-
-
-
-### Some great subheading (h3)
-
-
-
-
-### Some great subheading (h3)
-
-
-
-### Some great subheading (h3)
-
-
-
-#### You might want a sub-subheading (h4)
-
-
-#### But it's probably overkill (h4)
-
-
-
-##### Could be a smaller sub-heading, `pacman` (h5)
-
-
-
-###### Small yet significant sub-heading  (h6)
-
-
-
-### Oh hai, an unordered list!!
-
-
-
-### Oh hai, an ordered list!!
-
-
-
-## Headings are cool! (h2)
-
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur

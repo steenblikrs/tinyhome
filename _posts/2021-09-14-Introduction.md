@@ -1,9 +1,7 @@
+my name is Samansa. I'm an architectural student and this is my project on tiny houses. I hope you can enjoy my website.
 ---
 # HOME-Flexibiliy in Tiny Spaces -- Introduction
 
-###### Sep.14 2021. Xiaofei Chen
-
-My name is Samansa. I'm an architectural student and this is my project on tiny houses. I hope you can enjoy my website.
 
 ## Definition of home:
 - Portable

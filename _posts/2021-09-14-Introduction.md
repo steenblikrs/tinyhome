@@ -3,6 +3,8 @@
 
 ###### Sep.14 2021. Xiaofei Chen
 
+My name is Samansa. I'm an architectural student and this is my project on tiny houses. I hope you can enjoy my website.
+
 ## Definition of home:
 - Portable
 - Have a self-sufficient system

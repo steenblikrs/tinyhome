@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Introduction"
+HOME-Flexibiliy in Tiny Spaces -- Introduction
 
-categories: studio process
+Sep.14, 2021. Chen, Xiaofei.
 
-author:
-- Xiaofei Chen (Samansa)
+
+
 
 Definition of home:
 - Portable
@@ -21,6 +20,7 @@ its size or location, the organization of the interior spaces and decoration are
 that can make it become a home. It needs to make people feel comfortable, warm and 
 feel free to do what they want. It is hard to give “home” a specific definition, but, for 
 me, the core of home is the ability that make people want to live in this place.
+
 
 
 

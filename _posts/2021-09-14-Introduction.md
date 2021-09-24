@@ -21,8 +21,8 @@ me, the core of home is the ability that make people want to live in this place.
 ## Define a client: 
 Young office workers in big cities/ single with a pet or a couple with a pet
 
-## Site:
-This project is meant to be portable and people can 
+## Site Analysis:
+This project is meant to be portable, so that abandoned railway tracks will be a good site for this project.
 
 
 

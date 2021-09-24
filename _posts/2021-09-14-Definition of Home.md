@@ -8,8 +8,6 @@ author:
 ---
 
 
-my name is Samansa. I'm an architectural student and this is my project on tiny houses. I hope you can enjoy my website.
----
 # HOME-Flexibiliy in Tiny Spaces -- Introduction
 
 
@@ -30,9 +28,4 @@ me, the core of home is the ability that make people want to live in this place.
 
 ## Define a client: 
 Young office workers in big cities/ single with a pet or a couple with a pet
-
-## Site Analysis:
-This project is meant to be portable, so that abandoned railway tracks will be a good site for this project.
-
-
 
